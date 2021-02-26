@@ -50,6 +50,6 @@
 
 ## Improve your Terminal
 
--[Bat](https://github.com/sharkdp/bat): Improve your cat with wings
--[FZF](https://medium.com/@GroundControl/better-git-diffs-with-fzf-89083739a9cb): Improve Git diffs
+- [Bat](https://github.com/sharkdp/bat): Improve your cat with wings
+- [FZF](https://medium.com/@GroundControl/better-git-diffs-with-fzf-89083739a9cb): Improve Git diffs
 
