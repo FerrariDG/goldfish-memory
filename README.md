@@ -11,6 +11,7 @@
   - [Blogs](#blogs)
   - [Conferences](#conferences)
 - [Tools for Talks](#tools-for-talks)
+- [Improve your Terminal](#improve-your-terminal)
 
 ---
 
@@ -44,3 +45,11 @@
 ## Tools for Talks
 
 - [Carbon](https://carbon.now.sh/): Create and share beautiful images of your source code
+
+---
+
+## Improve your Terminal
+
+-[Bat](https://github.com/sharkdp/bat): Improve your cat with wings
+-[FZF](https://medium.com/@GroundControl/better-git-diffs-with-fzf-89083739a9cb): Improve Git diffs
+
