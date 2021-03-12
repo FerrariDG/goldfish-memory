@@ -26,6 +26,7 @@
 - [FastAPI](https://github.com/tiangolo/fastapi): FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Great Expectations](https://github.com/great-expectations/great_expectations): Always know what to expect from your data.
 - [Orjson](https://github.com/ijl/orjson): Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
+- [Pandera](https://github.com/pandera-dev/pandera): A light-weight, flexible, and expressive pandas data validation library
 - [Pipenv](https://github.com/pypa/pipenv): Python Development Workflow for Humans
 - [Rich](https://github.com/willmcgugan/rich): is a Python library for rich text and beautiful formatting in the terminal
 - [Scalene](https://github.com/emeryberger/scalene): a high-performance, high-precision CPU and memory profiler for Python
