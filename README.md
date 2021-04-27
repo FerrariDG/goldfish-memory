@@ -31,6 +31,7 @@
 - [Rich](https://github.com/willmcgugan/rich): is a Python library for rich text and beautiful formatting in the terminal
 - [Scalene](https://github.com/emeryberger/scalene): a high-performance, high-precision CPU and memory profiler for Python
 - [Typer](https://github.com/tiangolo/typer): Typer, build great CLIs. Easy to code. Based on Python type hints
+- [Mongita](https://github.com/scottrogowski/mongita): Mongita is to MongoDB as SQLite is to SQL
 
 ### Blogs
 
@@ -40,6 +41,7 @@
 
 - [US Pycon](https://us.pycon.org/)
 - [PyGothan](https://pygothan.org/)
+- [EuroPython](https://www.europython-society.org/)
 
 ---
 
