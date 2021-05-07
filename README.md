@@ -22,7 +22,7 @@
 - [Airflow](https://github.com/apache/airflow): Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [Celery](https://github.com/celery/celery): Distributed Task Queue (development branch)
 - [Dear PyGui](https://github.com/hoffstadt/DearPyGui): A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-- [Diagrams](https://github.com/hoffstadt/DearPyGui): Diagram as Code for prototyping cloud system architectures
+- [Diagrams](https://github.com/mingrammer/diagrams): Diagram as Code for prototyping cloud system architectures
 - [FastAPI](https://github.com/tiangolo/fastapi): FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Great Expectations](https://github.com/great-expectations/great_expectations): Always know what to expect from your data.
 - [Orjson](https://github.com/ijl/orjson): Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
