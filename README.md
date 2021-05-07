@@ -17,6 +17,11 @@
 
 ## Python
 
+### Learning sources
+
+- [Python Weekly](https://www.pythonweekly.com): A free weekly newsletter featuring the best hand curated news, articles, new releases, tools and libraries, events etc related to Python.
+- [Real Python](https://realpython.com): Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.
+
 ### Packages
 
 - [Airflow](https://github.com/apache/airflow): Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
@@ -33,7 +38,7 @@
 - [Typer](https://github.com/tiangolo/typer): Typer, build great CLIs. Easy to code. Based on Python type hints
 - [Mongita](https://github.com/scottrogowski/mongita): Mongita is to MongoDB as SQLite is to SQL
 
-### Blogs
+### Courses
 
 - [Functional Programming in Python](https://realpython.com/courses/functional-programming-python/)
 
