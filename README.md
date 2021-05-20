@@ -7,8 +7,10 @@
 ---
 
 - [Python](#python)
+  - [Learning sources](#learning-sources)
   - [Packages](#packages)
-  - [Blogs](#blogs)
+  - [Blog Posts](#blog-posts)
+  - [Courses](#courses)
   - [Conferences](#conferences)
 - [Tools for Talks](#tools-for-talks)
 - [Improve your Terminal](#improve-your-terminal)
@@ -38,6 +40,10 @@
 - [Typer](https://github.com/tiangolo/typer): Typer, build great CLIs. Easy to code. Based on Python type hints
 - [Mongita](https://github.com/scottrogowski/mongita): Mongita is to MongoDB as SQLite is to SQL
 - [PDM](https://pdm.fming.dev): A modern Python package manager with PEP 582 support
+
+### Blog Posts
+
+- [Creating the Perfect Python Dockerfile](https://luis-sena.medium.com/creating-the-perfect-python-dockerfile-51bdec41f1c8)
 
 ### Courses
 
