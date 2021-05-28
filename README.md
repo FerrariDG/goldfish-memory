@@ -40,6 +40,7 @@
 - [Typer](https://github.com/tiangolo/typer): Typer, build great CLIs. Easy to code. Based on Python type hints
 - [Mongita](https://github.com/scottrogowski/mongita): Mongita is to MongoDB as SQLite is to SQL
 - [PDM](https://pdm.fming.dev): A modern Python package manager with PEP 582 support
+- [DuckDB](https://github.com/duckdb/duckdb): DuckDB is an in-process SQL OLAP Database Management System 
 
 ### Blog Posts
 
