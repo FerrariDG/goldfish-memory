@@ -42,9 +42,10 @@
 - [PDM](https://pdm.fming.dev): A modern Python package manager with PEP 582 support
 - [DuckDB](https://github.com/duckdb/duckdb): DuckDB is an in-process SQL OLAP Database Management System 
 
-### Blog Posts
+### Posts
 
 - [Creating the Perfect Python Dockerfile](https://luis-sena.medium.com/creating-the-perfect-python-dockerfile-51bdec41f1c8)
+- [Ship better Python software, faster](https://pythonspeed.com/)
 
 ### Courses
 
